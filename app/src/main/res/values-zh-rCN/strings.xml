@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="whipped_cream">生奶油</string>
+    <string name="toppings">配料</string>
+    <string name="remove_order">移除订单</string>
+    <string name="quantity">数量</string>
+    <string name="price">价格</string>
+    <string name="chocolate">巧克力</string>
+    <string name="order_button">下订单</string>
+    <string name="order_summary_name">姓名: </string>
+    <string name="order_summary_whipped_cream">加生奶油: </string>
+    <string name="order_summary_chocolate">加巧克力: </string>
+    <string name="order_summary_quantity">数量: </string>
+    <string name="order_summary_total">共计: </string>
+    <string name="order_summary">订单明细</string>
+</resources>
